@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CW1786</string>
+    <string name="invalid_name">Please enter name</string>
+    <string name="invalid_desti">Please enter destination</string>
+    <string name="invalid_date">Please enter date</string>
+</resources>
